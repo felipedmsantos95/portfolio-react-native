@@ -21,7 +21,7 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 
 ### Específicação dos testes
 
-EPara esse desafio temos os seguintes testes:
+Para esse desafio temos os seguintes testes:
 
 - **`should add a like to the like counter of the repository`**: Para que esse teste passe, sua aplicação deve permitir ao clicar no botão `Curtir`, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
 
